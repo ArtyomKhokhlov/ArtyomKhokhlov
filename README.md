@@ -2,7 +2,7 @@
 - 👀 I’m interested in Quality Assurance
 - 🌱 I’m currently learning Python
 - 😄 Pronouns: He/him
-- 📫 How to reach me: [email](art.khakhlou@gmail.com) | [LinkedIn](https://www.linkedin.com/in/yourusername/)
+- 📫 How to reach me: [email](mailto:art.khakhlou@gmail.com) | [LinkedIn](https://www.linkedin.com/in/artyom-khokhlov/)
 
 
 <!---
