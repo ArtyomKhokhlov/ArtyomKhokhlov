@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Artyom Khokhlov [@ArtyomKhokhlov]
+- 👋 Hi, I’m Artyom Khokhlov { @ArtyomKhokhlov }
 - 👀 I’m interested in Quality Assurance
 - 🌱 I’m currently learning Python
-- 📫 How to reach me via email [art.khakhlou@gmail.com]
 - 😄 Pronouns: He/him
+- 📫 How to reach me: [email](art.khakhlou@gmail.com) | [LinkedIn](https://www.linkedin.com/in/yourusername/)
+
 
 <!---
 ArtyomKhokhlov/ArtyomKhokhlov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
