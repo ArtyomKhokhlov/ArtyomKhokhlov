@@ -11,7 +11,7 @@
 [![Kibana](/icons/kibana.svg)](https://www.elastic.co/kibana)
 [![Grafana](/icons/grafana.svg)](https://grafana.com)
 [![Testrail](/icons/testrail.svg)](https://www.testrail.com)
-
+[![GraphQL](/icons/graphql.svg)](https://graphql.org/)
 
 
 <!---
