@@ -13,6 +13,7 @@
 [![Testrail](/icons/testrail.svg)](https://www.testrail.com)
 [![GraphQL](/icons/graphql.svg)](https://graphql.org/)
 [![Postman](/icons/postman.svg)](https://www.postman.com/)
+[![Git](/icons/git.svg)](https://git-scm.com/)
 
 <!---
 ArtyomKhokhlov/ArtyomKhokhlov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
