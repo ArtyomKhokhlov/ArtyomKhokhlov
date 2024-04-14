@@ -16,6 +16,7 @@
 [![Git](/icons/git.svg)](https://git-scm.com/)
 [![Jira](/icons/jira.svg)](https://www.atlassian.com/software/jira)
 [![Confluence](/icons/confluence.svg)](https://www.atlassian.com/software/confluence)
+[![ChatGPT](/icons/chatgpt.svg)](https://chat.openai.com/)
 
 <!---
 ArtyomKhokhlov/ArtyomKhokhlov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
