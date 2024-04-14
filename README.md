@@ -7,9 +7,10 @@
 
 # My skills
 
+[![Jira](/icons/jira.svg)](https://www.atlassian.com/software/jira)
 [![Kibana](/icons/kibana.svg)](https://www.elastic.co/kibana)
 [![Grafana](/icons/grafana.svg)](https://grafana.com)
-[![testrail](/icons/testrail.svg)](https://www.testrail.com)
+[![Testrail](/icons/testrail.svg)](https://www.testrail.com)
 
 
 
