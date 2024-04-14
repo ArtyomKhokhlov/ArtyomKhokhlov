@@ -12,7 +12,7 @@
 [![GraphQL](/icons/graphql.svg)](https://graphql.org/)
 [![Postman](/icons/postman.svg)](https://www.postman.com/)
 [![Git](/icons/git.svg)](https://git-scm.com/)
-[![Git](/icons/selenium.svg)](https://www.selenium.dev/)
+[![Selenium](/icons/selenium.svg)](https://www.selenium.dev/)
 [![Jira](/icons/jira.svg)](https://www.atlassian.com/software/jira)
 [![Confluence](/icons/confluence.svg)](https://www.atlassian.com/software/confluence)
 [![ChatGPT](/icons/chatgpt.svg)](https://chat.openai.com/)
