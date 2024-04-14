@@ -7,13 +7,15 @@
 
 # My skills
 
-[![Jira](/icons/jira.svg)](https://www.atlassian.com/software/jira)
+
 [![Kibana](/icons/kibana.svg)](https://www.elastic.co/kibana)
 [![Grafana](/icons/grafana.svg)](https://grafana.com)
 [![Testrail](/icons/testrail.svg)](https://www.testrail.com)
 [![GraphQL](/icons/graphql.svg)](https://graphql.org/)
 [![Postman](/icons/postman.svg)](https://www.postman.com/)
 [![Git](/icons/git.svg)](https://git-scm.com/)
+[![Jira](/icons/jira.svg)](https://www.atlassian.com/software/jira)
+[![Confluence](/icons/confluence.svg)](https://www.atlassian.com/software/confluence)
 
 <!---
 ArtyomKhokhlov/ArtyomKhokhlov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
