@@ -15,6 +15,7 @@
 [![Selenium](/icons/selenium.svg)](https://www.selenium.dev/)
 [![Jira](/icons/jira.svg)](https://www.atlassian.com/software/jira)
 [![Confluence](/icons/confluence.svg)](https://www.atlassian.com/software/confluence)
+[![MScrm](/icons/mscrm.svg)](https://www.microsoft.com/pl-pl/dynamics-365)
 [![ChatGPT](/icons/chatgpt.svg)](https://chat.openai.com/)
 
 <!---
