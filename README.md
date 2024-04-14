@@ -5,7 +5,8 @@
 - 😄 Pronouns: He/him
 - 📫 How to reach me: [email](mailto:art.khakhlou@gmail.com)
 
-[![My Skills](https://skillicons.dev/icons?i=html,py,figma)](https://skillicons.dev)
+# My skills
+[![My Skills](https://skillicons.dev/icons?i=html,py,figma,github,vscode)](https://skillicons.dev)
 
 
 
