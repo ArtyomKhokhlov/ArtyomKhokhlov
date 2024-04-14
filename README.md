@@ -2,7 +2,6 @@
 - 👋 Hi, I’m Artyom Khokhlov
 - 👀 I’m interested in Quality Assurance
 - 🌱 I’m currently learning Python
-- 😄 Pronouns: He/him
 
 # My skills
 
