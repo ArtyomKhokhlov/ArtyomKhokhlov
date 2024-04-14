@@ -6,7 +6,7 @@
 - 📫 How to reach me: [email](mailto:art.khakhlou@gmail.com)
 
 # My skills
-[![My Skills](https://skillicons.dev/icons?i=html,py,figma,github,vscode)](https://skillicons.dev)
+[![My Skills](/icons/kibana.png)](https://www.elastic.co/kibana)
 
 
 
