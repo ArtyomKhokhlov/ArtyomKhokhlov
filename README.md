@@ -3,7 +3,7 @@
 - 👀 I’m interested in Quality Assurance
 - 🌱 I’m currently learning Python
 
-# My skills
+# My skills and tools
 
 [![Jenkins](/icons/jenkins.svg)](https://www.jenkins.io/)
 [![Kibana](/icons/kibana.svg)](https://www.elastic.co/kibana)
@@ -20,7 +20,7 @@
 [![DBeaver](/icons/dbeaver.svg)](https://dbeaver.io/)
 [![Asana](/icons/asana.svg)](https://asana.com/)
 [![ChatGPT](/icons/chatgpt.svg)](https://chat.openai.com/)
-
+[![ChatGPT](/icons/slack.svg)](https://slack.com/)
 <!---
 ArtyomKhokhlov/ArtyomKhokhlov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
