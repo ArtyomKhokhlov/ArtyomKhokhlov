@@ -25,7 +25,11 @@
 <p align="center">
  <img width="1000" src="icons/github-snake.svg" alt="snake"/>
 </p>
-![Visitor Count](https://profile-counter.glitch.me/ArtyomKhokhlov/count.svg)
+<p align="center">
+  Visitors Count:<br>
+  <img src="https://profile-counter.glitch.me/ArtyomKhokhlov/count.svg" alt="Visitor Count">
+</p>
+
 <!---
 ArtyomKhokhlov/ArtyomKhokhlov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
