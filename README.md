@@ -5,7 +5,7 @@
 
 # My skills
 
-
+[![Swagger](/icons/swagger.svg)](https://swagger.io/)
 [![Kibana](/icons/kibana.svg)](https://www.elastic.co/kibana)
 [![Grafana](/icons/grafana.svg)](https://grafana.com)
 [![Testrail](/icons/testrail.svg)](https://www.testrail.com)
